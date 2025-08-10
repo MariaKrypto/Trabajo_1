@@ -1,1 +1,3 @@
 Maria Victoria
+git clone https://github.com/hondusite/curso_github.git
+cd curso_github
